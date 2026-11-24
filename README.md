@@ -113,11 +113,23 @@ El proyecto se desarrolla en **7 fases (épicas)** entre **septiembre de 2026 y 
 
 ---
 
+## Diseño técnico
+
+La documentación de diseño estará disponible en la carpeta **[`/docs`](./docs)** del repositorio, que contendrá:
+
+- **Diagrama de red** (topología y esquema de direccionamiento `x.x.x.x/x`).
+- **Modelo Entidad-Relación** de la base de datos `smartcrop_db`.
+
+El prototipo visual del panel web (Login, Dashboard y control de relés) está disponible en [Figma](https://www.figma.com/make/8VaSUoeQfaq9c10xKLD8BL/Dise%C3%B1ar-panel-de-control-IoT?t=K7D7D8VqNrgRpoED-1).
+
+---
+
 ## Enlaces del proyecto
 
 | Recurso | Enlace |
 |---------|--------|
-| Tablero Kanban (Jira) | [Enlace a mi Tablero Kanban en Jira] |
+| Tablero Kanban (Jira) | [Tablero Kanban en Jira](https://iestriana-team-oqp27xh5.atlassian.net/jira/software/projects/SCRUM/boards/1) |
+| Prototipo de la interfaz web (Figma) | [Simulación del panel de control en Figma](https://www.figma.com/make/8VaSUoeQfaq9c10xKLD8BL/Dise%C3%B1ar-panel-de-control-IoT?t=K7D7D8VqNrgRpoED-1) |
 | Web del proyecto (GitHub Pages) | [https://antoniopilar.github.io/SmartCrop-Control/](https://antoniopilar.github.io/SmartCrop-Control/) |
 | Repositorio | [github.com/AntonioPilar/SmartCrop-Control](https://github.com/AntonioPilar/SmartCrop-Control) |
 
